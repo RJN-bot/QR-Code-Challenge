@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/html-css-qud1dtU28)
+- Live Site URL: [Live site](https://rjn-bot.github.io/QR-Code-Challenge/)
 
 ## My process
 
@@ -40,7 +40,7 @@ I just did what I knew and kept on at it and voila! the project was almost finis
 
 Also, I learned that although tutorials are good but things are learned through projects (like this one).
 
-Will be focusing more on projects from now on. 
+Will be focusing more on projects from now on.
 
 ## Author
 
